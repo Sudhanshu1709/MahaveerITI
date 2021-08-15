@@ -1,2 +1,0 @@
-# Mahaveeriti
-print("ITI")
